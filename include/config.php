@@ -3,9 +3,9 @@ include_once('include/Database.php');
 include_once('include/paginator.class.php');
 
 define( 'DB_HOST', 'localhost' );
-define( 'DB_USER', 'crime' );
-define( 'DB_PASSWORD', 'allow2cib@2022' );
-define( 'DB_NAME', 'crime' );
+define( 'DB_USER', 'codexeg_crime' );
+define( 'DB_PASSWORD', 'NMtW.uQi],AV' );
+define( 'DB_NAME', 'codexeg_crime' );
 $link = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
 
 $sSQL= 'SET CHARACTER SET utf8'; 
